@@ -36,6 +36,7 @@ Before proceeding with the project, ensure that you have the following:
 **Attached File:** 
 
 Input image (DICOM and NifTI): Input image.zip
+
 MinIP example: Sponsor SWI image.zip
 
 
