@@ -22,7 +22,9 @@ Before proceeding with the project, ensure that you have the following:
 
 ### Other requests
 1. Use Git for version control
-2. Write your own design document
+    1. create a new branch
+    2. create a PR
+3. Write your own design document
 
 
 # Material
